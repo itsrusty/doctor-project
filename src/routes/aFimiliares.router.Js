@@ -19,4 +19,6 @@ routerAFamiliares.put(`${path}/edit/:expedienteId`, (req, res) => {
 })
 
 
+
+
 export default routerAFamiliares
